@@ -9,7 +9,7 @@ What sites I use for **CP**
 - [__acmp.ru__](https://acmp.ru/)
 
 Also I use, codewars for algo training
-- [__Codewars__}(https://codewars.com/)
+- [__Codewars__](https://codewars.com/)
 ## Languages what I use of solve problems
 - C++
 - Python
