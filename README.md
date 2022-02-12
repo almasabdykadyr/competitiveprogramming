@@ -7,7 +7,8 @@ This repository was created for push my solved problems.
 What sites I use for **CP**
 - [__CodeForces__](https://codeforces.com/)
 - [__acmp.ru__](https://acmp.ru/)
-
+Also I use, codewars for algo training
+- [__Codewars__}(https://codewars.com/)
 ## Languages what I use of solve problems
 - C++
 - Python
